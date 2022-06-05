@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavik Dudhrejiya
-- 👋 I am currently working as a Junior Data Scientist
+- 👋 I am currently working as Data Scientist
 - 👀 I’m interested in Machine Learning, Deep Learning and Natural Language Processing & Computer Vision
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing
 - 💞️ I’m looking to collaborate on Github
